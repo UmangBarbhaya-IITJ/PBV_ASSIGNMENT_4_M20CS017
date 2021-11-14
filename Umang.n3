@@ -1,4 +1,4 @@
-@prefix ns1: <https://github.com/UmangBarbhaya-IITJ/PBV_ASSIGNMENT_4_M20CS017/blob/main/#> .
+@prefix ns1: <http://github.com/UmangBarbhaya-IITJ/PBV_ASSIGNMENT_4_M20CS017/blob/main/#> .
 ns1:Sun ns1:above ns1:Mountains .
 ns1:Sun ns1:right_of ns1:Birds .
 ns1:Tree ns1:above ns1:House .
