@@ -1,0 +1,11 @@
+@prefix myns: <http://www.pbvassign4.org/assignment#>.
+myns:Tree myns:above myns:House.
+myns:Birds myns:above myns:Mountains.
+myns:Mountains myns:above myns:House.
+myns:Mountains myns:above myns:River.
+myns:Sun myns:above myns:Mountains.
+myns:Sun myns:right_of myns:Birds.
+myns:Boat myns:above myns:River.
+myns:Land myns:right_of myns:River.
+myns:House myns:above myns:Land.
+myns:House myns:right_of myns:Boat.
